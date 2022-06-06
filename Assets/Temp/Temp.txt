@@ -1,0 +1,1 @@
+This folder is to store temporary music files and images that will be generated when running the software.
